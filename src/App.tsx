@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import { motion, useScroll, useSpring, useInView, AnimatePresence, useTransform } from "motion/react";
+import { motion, useScroll, useSpring, useInView, AnimatePresence, useTransform } from "framer-motion";
 import React, { useEffect, useState, useRef } from "react";
 import { 
   ChevronDown, 
